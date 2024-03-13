@@ -20,7 +20,7 @@ This is the recipe that I use to make vanilla cake! It serves around 5 or 6 peop
 ## Recipe:
 
  ### Prep:
-1. First, beat the eggs while slowly adding sugar. Do this for around 5 minutes until it changes colour from yellow to white and its volume increases around 2-3 times.
+1. First, beat the eggs while slowly adding sugar. Do this for around 5 minutes until it changes colour from yellow to white, and its volume increases around 2-3 times.
 
 2. Mix the flour, sugar, baking powder, and salt. Then add this mixture to the egg and sugar batter you made previously. 
 
